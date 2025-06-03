@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/icon"/>
+    <qresource prefix="/icons">
+        <file>language.png</file>
+        <file>location.png</file>
+        <file>search.png</file>
+        <file>down_arrow.png</file>
+    </qresource>
+    <qresource prefix="/styles"/>
+</RCC>

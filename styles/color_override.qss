@@ -1,0 +1,3 @@
+QComboBox, #keywords_line_edit, #filter_apply_btn:hover, #add_fav_label:hover, #choose_color_btn:hover, #remove_button {
+    color: %1;
+}
